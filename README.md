@@ -1,6 +1,26 @@
+### APP运行
+
+**1.以管理员身份运行gui.exe**
+
+![image-20250919220037581](./assets/image-20250919220037581.png)
+
+**2.UI界面出现后别着急运行脚本**
+
+![image-20250921233907882](./assets/image-20250921233907882.png)
+
+**3.先打开游戏,将游戏分辨率设置为1920*1080窗口模式,并传送到差分宇宙**
+
+![image-20250919220255889](./assets/image-20250919220255889.png)
+
+**4.保持以上界面,点击开始脚本,开始运行**
+
+**5.如果想要退出请使用win+Tab快捷键组合,将当前主窗口切到ui界面,此时脚本阻塞,可获得键鼠控制权,点击停止按钮即可。**
+
+### 源代码运行
+
 **第一次运行**
 
-建议使用anaconda，创建虚拟环境并安装依赖库（conda需要在cmd下运行，powershell可能无法切换虚拟环境）
+建议使用miniconda3，创建虚拟环境并安装依赖库（conda需要在cmd下运行，powershell可能无法切换虚拟环境）
 
 ```plaintext
 conda create -n asu python=3.12 -y
@@ -82,7 +102,7 @@ config:
 
 改变鼠标dpi可能会影响校准值，此时需要重新校准。
 
-## GUI使用方法
+## 注意事项
 
 **第一次运行**
 
@@ -116,3 +136,7 @@ F8/‘停止’按钮停止运行。
 改变鼠标dpi可能会影响校准值，此时需要重新校准。
 
 
+
+### **特别声明**
+
+本脚本来自Github开源项目**自动化模拟宇宙**(Auto_Simulated_Universe:https://github.com/CHNZYX/Auto_Simulated_Universe),由**Waverider02**改写(https://github.com/Waverider02/ADU),仅供交流学习,禁止商用。
