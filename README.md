@@ -1,5 +1,7 @@
 ### APP运行
 
+___
+
 **1.以管理员身份运行gui.exe**
 
 ![image-20250919220037581](./assets/image-20250919220037581.png)
@@ -17,6 +19,8 @@
 **5.如果想要退出请使用win+Tab快捷键组合,将当前主窗口切到ui界面,此时脚本阻塞,可获得键鼠控制权,点击停止按钮即可。**
 
 ### 源代码运行
+
+___
 
 **第一次运行**
 
@@ -102,7 +106,9 @@ config:
 
 改变鼠标dpi可能会影响校准值，此时需要重新校准。
 
-## 注意事项
+### 注意事项
+
+___
 
 **第一次运行**
 
@@ -135,8 +141,8 @@ F8/‘停止’按钮停止运行。
 
 改变鼠标dpi可能会影响校准值，此时需要重新校准。
 
-
-
 ### **特别声明**
 
-本脚本来自Github开源项目**自动化模拟宇宙**( Auto_Simulated_Universe:https://github.com/CHNZYX/Auto_Simulated_Universe ),由**Waverider02**改写( https://github.com/Waverider02/ADU ),仅供交流学习,禁止商用。
+___
+
+本脚本来自Github开源项目**自动化模拟宇宙**(Auto_Simulated_Universe:https://github.com/CHNZYX/Auto_Simulated_Universe),由**Waverider02**改写(https://github.com/Waverider02/ADU),仅供交流学习,禁止商用。
