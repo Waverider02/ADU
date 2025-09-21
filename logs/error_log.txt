@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "D:\Microsoft VS Project\myproject_python\Auto_Divergent_Universe\diver.py", line 1143, in start
+    self.route()
+  File "D:\Microsoft VS Project\myproject_python\Auto_Divergent_Universe\diver.py", line 110, in route
+    self.loop()
+  File "D:\Microsoft VS Project\myproject_python\Auto_Divergent_Universe\diver.py", line 117, in loop
+    res = self.run_static()
+          ^^^^^^^^^^^^^^^^^
+  File "D:\Microsoft VS Project\myproject_python\Auto_Divergent_Universe\diver.py", line 203, in run_static
+    self.do_action(j)
+  File "D:\Microsoft VS Project\myproject_python\Auto_Divergent_Universe\diver.py", line 159, in do_action
+    return getattr(self, action)()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Microsoft VS Project\myproject_python\Auto_Divergent_Universe\diver.py", line 868, in area
+    self.align_event('d', event_text=total_events[-1][0], click=1)
+  File "D:\Microsoft VS Project\myproject_python\Auto_Divergent_Universe\diver.py", line 654, in align_event
+    self.press(key,0.2)
+  File "D:\Microsoft VS Project\myproject_python\Auto_Divergent_Universe\utils\diver\utils.py", line 183, in press
+    raise ValueError("正在退出")
+ValueError: 正在退出
