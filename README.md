@@ -32,10 +32,6 @@ conda activate asu
 pip install -r requirements.txt
 ```
 
-或者直接安装（不建议）：双击`install_requirements.bat`安装依赖库
-
-重命名info_example.yml为info.yml
-
 **运行自动化**
 
 命令行运行
@@ -94,9 +90,8 @@ config:
   max_run: 34
 ```
 
-必须携带至少一名远程平a角色，最好放在1号位
+注意！！！！！ 必须携带至少一名远程平a角色，最好放在1号位
 
-注意！！！！！ 开始运行/开始校准之后就不要移动游戏窗口了！要移动请先停止自动化！
 
 **校准**
 
@@ -145,4 +140,4 @@ F8/‘停止’按钮停止运行。
 
 ___
 
-本脚本来自Github开源项目**自动化模拟宇宙**(Auto_Simulated_Universe: https://github.com/CHNZYX/Auto_Simulated_Universe ),由**Waverider02**改写( https://github.com/Waverider02/ADU ),仅供交流学习,禁止商用。
+本脚本来自Github开源项目**自动化模拟宇宙**(Auto_Simulated_Universe: https://github.com/CHNZYX/Auto_Simulated_Universe ),改写自**Waverider02**( https://github.com/Waverider02/ADU ),优化ui功能,简化操作,如需完整代码请访问**Auto_Simulated_Universe**,改项目仅供交流学习自动化脚本,禁止商用。
