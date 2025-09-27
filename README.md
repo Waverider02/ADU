@@ -140,4 +140,4 @@ F8/‘停止’按钮停止运行。
 
 ___
 
-本脚本来自Github开源项目**自动化模拟宇宙**(Auto_Simulated_Universe: https://github.com/CHNZYX/Auto_Simulated_Universe ),改写自**Waverider02**( https://github.com/Waverider02/ADU ),优化ui功能,简化操作,如需完整代码请访问**Auto_Simulated_Universe**,改项目仅供交流学习自动化脚本,禁止商用。
+本脚本来自Github开源项目**自动化模拟宇宙**(Auto_Simulated_Universe: https://github.com/CHNZYX/Auto_Simulated_Universe ),改写自**Waverider02**( https://github.com/Waverider02/ADU ),优化ui功能,简化操作,如需完整代码请访问**Auto_Simulated_Universe**,该项目仅供交流学习自动化脚本,禁止商用。
